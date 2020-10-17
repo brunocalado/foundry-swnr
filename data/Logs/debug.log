@@ -1,0 +1,8 @@
+{"message":"Foundry Virtual Tabletop - Version 0.6.6","level":"info","timestamp":"2020-10-13 21:31:41"}
+{"message":"Running on Node.js - Version 12.18.2","level":"info","timestamp":"2020-10-13 21:31:41"}
+{"message":"Loading data from user directory - data","level":"info","timestamp":"2020-10-13 21:31:41"}
+{"message":"Application Options:\n{\n  \"port\": 30000,\n  \"upnp\": true,\n  \"fullscreen\": false,\n  \"hostname\": null,\n  \"routePrefix\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"awsConfig\": null,\n  \"dataPath\": \"data\",\n  \"proxySSL\": false,\n  \"proxyPort\": null,\n  \"updateChannel\": \"release\",\n  \"world\": null,\n  \"isElectron\": false,\n  \"isNode\": true,\n  \"isSSL\": false\n}","level":"info","timestamp":"2020-10-13 21:31:41"}
+{"message":"Software license requires signature.","level":"warn","timestamp":"2020-10-13 21:31:41"}
+{"message":"Requesting UPnP port forwarding to destination 30000","level":"info","timestamp":"2020-10-13 21:31:41"}
+{"message":"Server started and listening on port 30000","level":"info","timestamp":"2020-10-13 21:31:41"}
+{"message":"Shutting down Foundry Virtual Tabletop server","level":"info","timestamp":"2020-10-13 21:31:54"}
